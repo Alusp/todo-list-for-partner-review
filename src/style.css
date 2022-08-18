@@ -2,9 +2,12 @@
   margin: 0;
   padding: 0;
 }
-
+:root {
+  --bordercolor: 0.6px solid rgb(216, 216, 216);
+  --lightgreen: rgb(112, 189, 122);
+}
 .hello {
-  color: rgb(112, 189, 122);
+  color:  var(--lightgreen);
 }
 
 .container {
@@ -15,7 +18,7 @@
 
 .title {
   padding: 3%;
-  color: rgb(112, 189, 122);
+  color:  var(--lightgreen);
 }
 
 form {
@@ -23,9 +26,9 @@ form {
   justify-content: space-between;
   padding-right: 0;
   position: relative;
-  border-top: 0.6px solid rgb(216, 216, 216);
+  border-top: var(--bordercolor);
   border-right: none;
-  border-bottom: 0.6px solid rgb(216, 216, 216);
+  border-bottom: var(--bordercolor);
   border-left: none;
 }
 
@@ -68,7 +71,7 @@ button {
 }
 
 .clear {
-  background-color: rgb(112, 189, 122);
+  background-color:  var(--lightgreen);
   text-align: center;
   padding: 3%;
 }
