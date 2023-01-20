@@ -9,7 +9,7 @@ TODO-LIst is a project that is based on the html, javaScript, CSS and webpack ex
 
 ## Built With
 
-- HTML,CSS and JavaScript
+- HTML, CSS and JavaScript
 - VSCODE
 - GIT
 - Webpack
