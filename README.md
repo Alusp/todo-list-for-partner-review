@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# todo-list-for-partner-review
 
 TODO-LIst is a project that is based on the html, javaScript, CSS and webpack exercise with add Remove Feature with Interactive list.
 
