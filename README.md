@@ -2,8 +2,7 @@
 
 # todo-list-for-partner-review
 
-TODO-LIst is a project that is based on the html, javaScript, CSS and webpack exercise with add Remove Feature with Interactive list.
-
+TODO-LIST is a project that is based on the ability to create a list of things you want to do throughout the day. It has an add Remove Feature with an interactive list.
 
 [Demo-Link](https://alusp.github.io/ToDolist/?)
 
